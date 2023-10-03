@@ -1,0 +1,17 @@
+{
+    "name": "captcha-eu/sdk",
+    "description": "Captcha.eu for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Helmut Januschka",
+            "email": "hjanuschka@captcha.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CaptchaEU\\": "src/"
+        }
+    }
+}
